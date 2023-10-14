@@ -207,5 +207,5 @@ button:active {
 }
 .login .sing-up a {
   text-decoration: none;
-  font-weight: 700;
+  /* font-weight: 700; */
 }
